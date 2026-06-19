@@ -19,9 +19,7 @@ A complete, premium Next.js 16 website for RSG with a powerful Admin Dashboard.
 
 ## Login (as specified)
 
-**Owner (full access)**:
-- Email: Tornqvisteliaz@gmail.com
-- Password: Halsband1983
+
 
 Any other email + password works as a normal user (no admin access).
 
